@@ -531,6 +531,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="1fb2a4" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
         <option name="EFFECT_TYPE" value="1" />
